@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kireobat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Computer hardware, editing and programming.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord Kireobat#0101  or Steam  Kireobat / 1043948302
 

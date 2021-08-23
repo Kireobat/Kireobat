@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kireobat
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord    currently Kireobat#0101
+- 📫 How to reach me Discord Kireobat#0101  or Steam  Kireobat / 1043948302
 
 <!---
 Kireobat/Kireobat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

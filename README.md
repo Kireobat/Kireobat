@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kireobat
 
-## 🐟 Currently Swimming Upstream at Fiskeridirektoratet
-I'm a **Lærling** (apprentice) in **IT-Utviklerfaget** at Fiskeridirektoratet, where I'm diving deep into the world of software development while contributing to Norway's fisheries sector. Currently preparing for my **fagprøve** - the exciting final stretch of my apprenticeship journey!
+## 🐟 Previously Swimming Upstream at Fiskeridirektoratet
+I was a **Lærling** (apprentice) in **IT-Utviklerfaget** at Fiskeridirektoratet, where I'm diving deep into the world of software development while contributing to Norway's fisheries sector. Done with my **fagprøve** - the exciting final stretch of my apprenticeship journey!
 
 ## 🛠️ Tech Stack & Skills
 
@@ -35,7 +35,6 @@ Frontend companion built with SvelteKit, demonstrating full-stack capabilities
 </div>
 
 ## 🌱 Currently Focusing On
-- 📚 Preparing for my **fagprøve** examination
 - 🔧 Deepening my Spring Framework expertise
 - 🚀 Exploring advanced Kotlin features
 - 🎨 Enhancing my SvelteKit frontend skills
